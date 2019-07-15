@@ -13,7 +13,7 @@
 	"scripts": {
 		"test": "mocha",
 		"cypress:open": "cypress open",
-		"cypress:run": "cypress run --spec=cypress/integration/testCases/**/*"
+		"cypress:run": "cypress run --spec=cypress/integration/**/*"
 	},
 	"author": "",
 	"license": "ISC"
