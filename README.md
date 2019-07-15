@@ -51,4 +51,3 @@ I chose to use the Cypress framework using JavaScript as the language for both W
 ## Acknowledgments
 
 * [Cypress docs](https://docs.cypress.io/guides/overview/why-cypress.html)
-* The internet
