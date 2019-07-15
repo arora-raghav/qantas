@@ -1,0 +1,13 @@
+{
+	"username": "user@phptravels.com",
+	"password": "demouser",
+	"originCity": "Sydney",
+	"destinationCity": "Melbourne",
+	"departureDate": "10102019",
+	"checkInDate": "15082019",
+	"checkOutDate": "20082019",
+	"adults": "2",
+	"childrens": "0",
+	"noOfGuests": "3",
+	"tripType": "192"
+}

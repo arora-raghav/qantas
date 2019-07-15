@@ -1,0 +1,7 @@
+{
+	"baseUrl": "http://api.weatherbit.io/v2.0/",
+	"projectId": "gkq9kk",
+	"env": {
+		"wait": 5000
+	}
+}
